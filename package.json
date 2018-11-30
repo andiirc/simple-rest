@@ -1,0 +1,17 @@
+{
+  "name": "simple-rest",
+  "version": "1.0.0",
+  "description": "api rest simple",
+  "main": "index.js",
+  "author": "anderson rodriguez",
+  "license": "MIT",
+  "scripts":{
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "restify": "^7.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
